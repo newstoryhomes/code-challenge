@@ -44,7 +44,7 @@ We will provide you with an API token, login credentials, as well as some basic 
 
 ## API Sandbox
 
-- API Endpoint: [`http://api-dev.newstory.io/grpahql`](http://api-dev.newstory.io/grpahql)
+- API Endpoint: [`http://api-dev.newstory.io/graphql`](http://api-dev.newstory.io/graphql)
 - API Key: (will be provided)
 - Credentials (will be provided)
   
