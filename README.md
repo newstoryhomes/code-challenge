@@ -48,9 +48,9 @@ We will provide you with an API token, login credentials, as well as some basic 
 - API Key: (will be provided)
 - Credentials (will be provided)
   
-> **Note**: All requests should pass this key as the `X-Api-Key` header. Also, after signing in, you should grab the user's `token` and pass it as the `Authorization` header for all subsequent requests    
+> **Note**: All requests should pass the API key as the `X-Api-Key` header. Also, after signing in, you should grab the user's `token` and pass it as the `Authorization` header for all subsequent requests.
 
 ## Resources
 
 - [Documentation](./resources/Documentation.md)
-- [GraphiQL](./resources/GraphiQL.md)
+- [GraphiQL](./resources/Documentation.md#graphql)
