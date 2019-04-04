@@ -54,7 +54,7 @@ There is much more to the system, so don't be alarmed if when you browse the doc
     - *belongs to a Submission*
     - *belongs to a QuestionVersion*
 
-![](./assets/diagram.jpg)
+![](../assets/diagram.jpg)
 
 
 ## Choose how you will interact with the API:
