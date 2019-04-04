@@ -26,15 +26,15 @@ There is much more to the system, so don't be alarmed if when you browse the doc
     - `hint` - String
     - *belongs to a Context*
     - *belongs to a QuestionVersion*
-- Survey
+- Survey - An ordered collection of SurveySections
     - `uuid` - String - primary key
     - `name` - String
     - *belongs to an Organization*
-- SurveySection
+- SurveySection - An ordered collection of questions with a heading
     - `uuid` - String - primary key
     - `body` - String
     - `position` - Integer
-- SurveyQuestion - An ordered list of QuestionVesions within a SurveySection
+- SurveyQuestion - Dictates which QuestionVesion version to display and at which positoin within a SurveySection
     - `uuid` - String - primary key
     - `position` - Integer
     - *belongs to a SurveySection*
