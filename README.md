@@ -53,4 +53,4 @@ We will provide you with an API token, login credentials, as well as some basic 
 ## Resources
 
 - [Documentation](./resources/Documentation.md)
-- [GraphiQL](./resources/Documentation.md#graphql)
+- [GraphiQL](./resources/Documentation.md#choose-how-you-will-interact-with-the-api)
