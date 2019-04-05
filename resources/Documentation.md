@@ -2,7 +2,7 @@
 
 ## Abridged Architecture
 
-Below is a list (with accompanying diagram) showing the relevant object types, associations and attributes you may be querying to complete the challenge. You will not need to directly interact with all of these objects, but they are listed here for context.
+Below is a list (with accompanying diagram) showing the relevant object types, associations, and attributes you may be querying to complete the challenge. You will not need to directly interact with all of these objects, but they are listed here for context.
 
 There is much more to the system, so don't be alarmed if when you browse the docs you see many more object types and attributes.
 

@@ -1,8 +1,8 @@
 # Instructions
 
-Welcome! If you are reading this, it's likely because you want to work with us. If you have already applied, then continue on. If not, check out our [careers](https://newstorycharity.org/careers/) page to see our avaiilable openeings. No software developer opening? Email us anyway!
+Welcome! If you are reading this, it's likely because you want to work with us. If you have already applied, then continue on. If not, check out our [careers](https://newstorycharity.org/careers/) page to see our available openings. No software developer opening? Email us anyway!
 
-The goal of this coding challenge is to allow us to see how you approach a technical problem. You will also get an introduction into our API. 
+The goal of this coding challenge is to allow us to see how you approach a technical problem. You will also get an introduction to our API. 
 
 This should take about **3-5 hours** to complete, but please don't spend more than 5 hours on it.
 
