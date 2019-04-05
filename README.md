@@ -1,8 +1,12 @@
 # Instructions
 
-First, you should not spend any more than **5** hours on this project, however it will likely take around 3. We would rather you submit an incomplete challenge than spend longer than 5 hours.
+Welcome! If you are reading this, it's likely because you want to work with us. If you have already applied, then continue on. If not, check out our [careers](https://newstorycharity.org/careers/) page to see our avaiilable openeings. No software developer opening? Email us anyway!
 
-Upon completion, a public Github URL should be sent to the following:
+The goal of this coding challenge is to allow us to see how you approach a technical problem. You will also get an introduction into our API. 
+
+This should take about **3-5 hours** to complete, but please don't spend more than 5 hours on it.
+
+Upon completion, a **public** Github URL should be sent to the following:
 
 - [morgan@newstorycharity.org](mailto:morgan@newstorycharity.org)
 - [tim@newstorycharity.org](mailto:tim@newstorycharity.org)
