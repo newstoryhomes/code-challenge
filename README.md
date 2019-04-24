@@ -39,7 +39,7 @@ We will provide you with an API token, login credentials, as well as some basic 
 ## Suggestions
 
 - Commit early and often. Your commit messages should be logical and show your train of thought.
-- Make use of libraries, but don't overuse any and don't rely on one to help with any core logic, like in **Part 3**
+- Make use of libraries, but don't overuse any and don't rely on one to help with any core logic, like in **Part 4**
 - Use best practices when writing your code. Including, but not limited to:
     - Documentation/Commenting
     - Indentation and Code Structure
