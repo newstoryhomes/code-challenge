@@ -13,7 +13,7 @@ Upon completion, a **public** Github URL should be sent to the following:
 
 ## The Challenge
 
-You will be creating a simple front-end application that will accomplish four things. We ask that you use React as your JavaScript framework, but you can use any state library that you so choose. You will be hitting our existing backend API.
+You will be creating a simple front-end application that will accomplish four things. You may use any JavaScript framework you feel most comfortable with. You will be hitting our existing backend API.
 
 Our API is built using GraphQL, so you will need to interact with that via a GraphQL tool on the client side or by building an HTTP request with properly formatted JSON. Again, you can use any library you choose to help with this, and we have provided a template for making requests if you don't have experience with GraphQL.
 
