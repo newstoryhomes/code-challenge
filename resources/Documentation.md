@@ -34,7 +34,7 @@ There is much more to the system, so don't be alarmed if when you browse the doc
     - `uuid` - String - primary key
     - `body` - String
     - `position` - Integer
-- SurveyQuestion - Dictates which QuestionVesion version to display and at which positoin within a SurveySection
+- SurveyQuestion - Dictates which QuestionVesion version to display and at which position within a SurveySection
     - `uuid` - String - primary key
     - `position` - Integer
     - *belongs to a SurveySection*
