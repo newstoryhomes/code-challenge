@@ -14,14 +14,18 @@ Upon completion, a **public** Github URL should be emailed to the following emai
 
 You will be creating a simple front-end application that will accomplish a few things. You'll need to use React JS for the front-end framework, but can use any CSS grid library to make stying a bit easier.
 
-You'll be working with a two different API's. 
+You'll be working with two different API's. 
 
-1. Google OAUTH
-2. Star Wars API (SWAPI)
+1. [Google OAUTH](https://swapi.dev/)
+2. [Star Wars API (SWAPI)](https://developers.google.com/identity/protocols/oauth2)
 
 You'll work with Google Auth to estabilish a way for a user to log in to the application. 
 
 You'll work with the Star Wars API (SWAPI) as your data source.
+
+Feel free to utilize any libraries that make your work easier. Work smarter, not harder :)
+
+## User Stories
 
 Below is a list of User Stories that we would like to be able to accomplish in the final version of the application.
 
